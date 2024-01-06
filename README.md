@@ -2,6 +2,10 @@
 
 This is a simple example of how to use Vue3, Cloudinary with Meteor.
 
+## Demo
+
+https://github.com/u-sour/meteor_cloudinary/assets/145416126/91088df2-bc49-418a-9c43-ddc58578d08b
+
 ## How to use
 
 1. Clone this repo
