@@ -1,0 +1,9 @@
+{
+  "public": {
+    "cloud_name": "",
+    "api_key": ""
+  },
+  "cloudinary": {
+    "api_secret": ""
+  }
+}
