@@ -5,6 +5,7 @@
 </template>
 
 <script setup lang="ts">
+import { Meteor } from 'meteor/meteor'
 import { AdvancedImage, lazyload, placeholder } from '@cloudinary/vue'
 import { Cloudinary } from '@cloudinary/url-gen'
 import { fill, thumbnail } from '@cloudinary/url-gen/actions/resize'
